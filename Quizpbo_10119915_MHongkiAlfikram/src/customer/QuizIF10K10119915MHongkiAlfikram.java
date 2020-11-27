@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package customer;
+
+/**
+ *
+ * @author M Hongki Alfirkam
+ * NIM     10119915
+ */
+public class QuizIF10K10119915MHongkiAlfikram {
+    
+
+ /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
